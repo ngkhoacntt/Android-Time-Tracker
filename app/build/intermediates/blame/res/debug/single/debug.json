@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_task.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\edit_task.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_timelist.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\timelist.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_report.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\report.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_time_range.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\edit_time_range.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_timelist.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\timelist.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_preferences_row.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\preferences_row.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_mark_dark.png.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\drawable\\ic_check_mark_dark.png"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_running_time_range.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\edit_running_time_range.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_preferences_row.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\preferences_row.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_preferences.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\preferences.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_time_range.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\edit_time_range.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_running_time_range.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\edit_running_time_range.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\raw_click.ogg.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\raw\\click.ogg"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_mark_dark.png.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\drawable\\ic_check_mark_dark.png"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_report.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\report.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\app\\build\\intermediates\\res\\merged\\debug\\raw_click.ogg.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\app\\src\\main\\res\\raw\\click.ogg"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_preferences.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\preferences.xml"
+    },
+    {
+        "merged": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_task.xml.flat",
+        "source": "D:\\TrainingAndroid\\android-timetracker1\\Android-Time-Tracker\\app\\src\\main\\res\\layout\\edit_task.xml"
+    }
+]

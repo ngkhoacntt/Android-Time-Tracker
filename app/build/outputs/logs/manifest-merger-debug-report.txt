@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:3:51-109
+	android:versionName
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:5:32-56
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:4:5-45
+uses-permission#android.permission.VIBRATE
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:9:2-46:17
+	android:label
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:9:45-77
+	android:icon
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:9:15-44
+activity#com.markuspage.android.atimetracker.Tasks
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:11:3-16:14
+	android:label
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:11:35-65
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:11:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:12:4-15:20
+action#android.intent.action.MAIN
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:13:5-57
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:13:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:14:15-62
+activity#com.markuspage.android.atimetracker.TaskTimes
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:18:3-23:14
+	android:label
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:18:39-65
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:18:13-38
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:19:4-22:20
+action#android.intent.action.VIEW
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:20:5-57
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:20:13-54
+category#android.intent.category.DEFAULT
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:21:15-61
+activity#com.markuspage.android.atimetracker.EditTime
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:25:3-30:14
+	android:label
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:25:38-63
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:25:13-37
+activity#com.markuspage.android.atimetracker.Report
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:32:3-37:14
+	android:label
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:32:36-58
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:32:13-35
+activity#com.markuspage.android.atimetracker.Settings
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:39:3-44:14
+	android:label
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:39:38-62
+	android:name
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:39:13-37
+uses-sdk
+ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:47:3-71
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:47:3-71
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:47:3-71
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:47:3-71
+INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:47:3-71
+	android:targetSdkVersion
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:47:39-68
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml:47:13-38
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TrainingAndroid\android-timetracker1\Android-Time-Tracker\app\src\main\AndroidManifest.xml
